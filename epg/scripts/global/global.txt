@@ -15,3 +15,6 @@ https://www.bevy.be/bevyfiles/malaysia.xml
 
 singaporepremium.xml
 https://www.bevy.be/bevyfiles/singaporepremium.xml
+
+thailand.xml
+https://www.bevy.be/bevyfiles/thailand.xml
