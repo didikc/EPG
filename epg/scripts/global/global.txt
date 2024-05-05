@@ -13,6 +13,9 @@ https://www.bevy.be/bevyfiles/indonesiapremium3.xml
 indihometv.com.xml
 https://xmltv.tvkaista.net/guides/indihometv.com.xml
 
+visionplus.id.xml
+https://xmltv.tvkaista.net/guides/visionplus.id.xml
+
 malaysia.xml
 https://www.bevy.be/bevyfiles/malaysia.xml
 
