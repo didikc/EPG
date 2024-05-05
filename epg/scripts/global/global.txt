@@ -24,3 +24,9 @@ https://www.bevy.be/bevyfiles/singaporepremium.xml
 
 thailand.xml
 https://www.bevy.be/bevyfiles/thailand.xml
+
+kp5JgTN6c3.xml
+https://www.bevy.be/generate/kp5JgTN6c3.xml
+
+us.xml
+https://i.mjh.nz/PlutoTV/us.xml
