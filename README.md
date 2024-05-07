@@ -7,8 +7,6 @@ This repo automatically converts live epg into a single .xml.gz and keeps them u
 Special thanks to:
 - @thefirefox12537
 - @emperormiui
-- bevy.be
-- xmltv.tvkaista.net
 
 ## Usage ✅
 1. Open the `global.txt` file.
