@@ -10,14 +10,23 @@ https://www.bevy.be/bevyfiles/indonesiapremium2.xml
 indonesiapremium3.xml
 https://www.bevy.be/bevyfiles/indonesiapremium3.xml
 
-malaysia.xml
-https://www.bevy.be/bevyfiles/malaysia.xml
+malaysiapremium1.xml
+https://www.bevy.be/bevyfiles/malaysiapremium1.xml
+
+malaysiapremium2.xml
+https://www.bevy.be/bevyfiles/malaysiapremium2.xml
 
 singaporepremium.xml
 https://www.bevy.be/bevyfiles/singaporepremium.xml
 
+singaporepremium2.xml
+https://www.bevy.be/bevyfiles/singaporepremium2.xml
+
 thailand.xml
 https://www.bevy.be/bevyfiles/thailand.xml
+
+thailandpremium.xml
+https://www.bevy.be/bevyfiles/thailandpremium.xml
 
 kp5JgTN6c3.xml
 https://www.bevy.be/generate/kp5JgTN6c3.xml
