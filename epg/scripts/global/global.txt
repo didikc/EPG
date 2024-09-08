@@ -13,6 +13,12 @@ https://www.bevy.be/bevyfiles/indonesiapremium3.xml
 malaysiaastro.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
 
+malaysiaunifi.xml
+https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
+
+malaysiartm.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
+
 singaporepremium.xml
 https://www.bevy.be/bevyfiles/singaporepremium.xml
 
@@ -30,3 +36,6 @@ https://www.bevy.be/generate/kp5JgTN6c3.xml
 
 us.xml
 https://i.mjh.nz/PlutoTV/us.xml
+
+samsungtvplus.xml
+https://i.mjh.nz/SamsungTVPlus/us.xml
