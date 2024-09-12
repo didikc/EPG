@@ -10,13 +10,16 @@ https://www.bevy.be/bevyfiles/indonesiapremium2.xml
 indonesiapremium3.xml
 https://www.bevy.be/bevyfiles/indonesiapremium3.xml
 
-malaysiaastro.xml
+malaysiapremium2.xml
+https://www.bevy.be/bevyfiles/malaysiapremium2.xml
+
+astro_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
 
-malaysiaunifi.xml
+unifi_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
 
-malaysiartm.xml
+rtmklik.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
 
 singaporepremium.xml
