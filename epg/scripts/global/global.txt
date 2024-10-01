@@ -10,6 +10,21 @@ https://www.bevy.be/bevyfiles/indonesiapremium2.xml
 indonesiapremium3.xml
 https://www.bevy.be/bevyfiles/indonesiapremium3.xml
 
+id-cubmu.xml
+https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/id-cubmu.xml
+
+id-denstv.xml
+https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/id-denstv.xml
+
+id-indihometv.xml
+https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/id-indihometv.xml
+
+id-vidio.xml
+https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/id-vidio.xml
+
+id-visionplus.xml
+https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/id-visionplus.xml
+
 malaysiapremium2.xml
 https://www.bevy.be/bevyfiles/malaysiapremium2.xml
 
@@ -37,8 +52,3 @@ https://www.bevy.be/bevyfiles/thailandpremium.xml
 kp5JgTN6c3.xml
 https://www.bevy.be/generate/kp5JgTN6c3.xml
 
-us.xml
-https://i.mjh.nz/PlutoTV/us.xml
-
-samsungtvplus.xml
-https://i.mjh.nz/SamsungTVPlus/us.xml
