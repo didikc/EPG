@@ -35,5 +35,5 @@ kp5JgTN6c3.xml
 https://www.bevy.be/generate/kp5JgTN6c3.xml
 
 pix.xml
-https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/scripts/pix.xml
+https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/pix.xml
 
