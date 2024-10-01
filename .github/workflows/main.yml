@@ -29,7 +29,7 @@ jobs:
           echo "Installing dependencies..."
           python3 -m pip install lxml pgzip requests
           echo "Generating EPG..."
-          python3 -u index.py -zo guide.xml --source="global/global.txt" --gen-name="TV-EPG" --gen-url="github.com/iptv-org/"
+          python3 -u index.py -zo guide.xml --source="global/global.txt" --gen-name="tv-epg" --gen-url="tv-epg.com"
           mv -v guide.xml.gz ..
           cd ../..
       - name: commit
