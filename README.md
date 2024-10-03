@@ -6,7 +6,6 @@ This repo automatically converts live epg into a single .xml.gz and keeps them u
 
 Special thanks to:
 - @thefirefox12537
-- @emperormiui
 
 ## Usage ✅
 1. Open the `global.txt` file.
