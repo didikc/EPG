@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/id-vidio.xml
 id-visionplus.xml
 https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/id-visionplus.xml
 
-singtel.xml
+sg-singtel.xml
 https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/sg-singtel.xml
 
 astro_epg.xml
