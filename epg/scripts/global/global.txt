@@ -19,15 +19,6 @@ https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/id-vidio.xml
 id-visionplus.xml
 https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/id-visionplus.xml
 
-singtel.xml
-https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/sg-singtel.xml
-
-mewatch.xml
-https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/sg-mewatch.xml
-
-thailand.xml
-https://www.bevy.be/bevyfiles/thailand.xml
-
 astro_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
 
