@@ -7,9 +7,6 @@ https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/id-cubmu.xml
 id-denstv.xml
 https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/id-denstv.xml
 
-id-firstmedia.xml
-https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/id-firstmedia.xml
-
 id-indihometv.xml
 https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/id-indihometv.xml
 
