@@ -22,12 +22,6 @@ https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/id-visionplus.xml
 astro_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
 
-unifi_epg.xml
-https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
-
-rtmklik.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
-
 kp5JgTN6c3.xml
 https://www.bevy.be/generate/kp5JgTN6c3.xml
 
