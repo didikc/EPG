@@ -1,6 +1,3 @@
-indonesia.xml
-https://www.bevy.be/bevyfiles/indonesia.xml
-
 id-cubmu.xml
 https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/id-cubmu.xml
 
@@ -12,6 +9,9 @@ https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/id-indihometv.xml
 
 id-vidio.xml
 https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/id-vidio.xml
+
+id-firstmedia.xml
+https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/id-firstmedia.xml
 
 id-visionplus.xml
 https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/id-visionplus.xml
@@ -30,4 +30,3 @@ https://www.bevy.be/generate/kp5JgTN6c3.xml
 
 pix.xml
 https://raw.githubusercontent.com/didikc/TV-EPG/main/epg/pix.xml
-
