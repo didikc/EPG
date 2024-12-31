@@ -19,11 +19,11 @@ https://raw.githubusercontent.com/didikc/EPG-2/main/epg/id-visionplus.xml
 sg-singtel.xml
 https://raw.githubusercontent.com/didikc/EPG-2/main/epg/sg-singtel.xml
 
+pix.xml
+https://raw.githubusercontent.com/didikc/EPG-2/main/epg/pix.xml
+
 astro_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
-
-pix.xml
-https://raw.githubusercontent.com/didikc/EPG-3/main/epg/pix.xml
 
 A9dQ6HFv83.xml
 https://www.open-epg.com/generate/A9dQ6HFv83.xml
