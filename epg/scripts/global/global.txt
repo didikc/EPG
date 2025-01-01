@@ -19,6 +19,18 @@ https://raw.githubusercontent.com/didikc/EPG-2/main/epg/id-visionplus.xml
 sg-singtel.xml
 https://raw.githubusercontent.com/didikc/EPG-2/main/epg/sg-singtel.xml
 
+thailandpremium.xml
+https://www.open-epg.com/files/thailandpremium.xml
+
+philippinespremium2.xml
+https://www.open-epg.com/files/philippinespremium2.xml
+
+india1.xml
+https://www.open-epg.com/files/india1.xml
+
+spain1.xml
+https://www.open-epg.com/files/spain1.xml
+
 pix.xml
 https://raw.githubusercontent.com/didikc/EPG-2/main/epg/pix.xml
 
