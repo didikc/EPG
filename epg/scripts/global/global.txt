@@ -7,23 +7,8 @@ https://raw.githubusercontent.com/didikc/EPG-2/main/epg/id-denstv.xml
 id-indihometv.xml
 https://raw.githubusercontent.com/didikc/EPG-2/main/epg/id-indihometv.xml
 
-id-vidio.xml
-https://raw.githubusercontent.com/didikc/EPG-2/main/epg/id-vidio.xml
-
-id-firstmedia.xml
-https://raw.githubusercontent.com/didikc/EPG-2/main/epg/id-firstmedia.xml
-
-id-visionplus.xml
-https://raw.githubusercontent.com/didikc/EPG-2/main/epg/id-visionplus.xml
-
-sg-singtel.xml
-https://raw.githubusercontent.com/didikc/EPG-2/main/epg/sg-singtel.xml
-
 pix.xml
 https://raw.githubusercontent.com/didikc/EPG-2/main/epg/pix.xml
-
-astro_epg.xml
-https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
 
 A9dQ6HFv83.xml
 https://www.open-epg.com/generate/A9dQ6HFv83.xml
