@@ -31,7 +31,6 @@ jobs:
           echo "Generating EPG..."
           python3 -u index.py -zo guide.xml --source="global/global.txt" --gen-name="tv-epg" --gen-url="tv-epg.com"
           mv -v guide.xml.gz ..
-          mv -v guide.xml ..
           cd ../..
       - name: commit
         run: |
