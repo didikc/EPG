@@ -1,7 +1,7 @@
 name: Generate EPG every day
 on:
   schedule:
-    - cron: '5 9,21 * * *'
+    - cron: '5 7,19 * * *'
   pull_request:
     branches:
       - master
