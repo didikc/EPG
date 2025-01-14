@@ -15,6 +15,3 @@ https://www.open-epg.com/generate/A9dQ6HFv83.xml
 
 epg.xml
 https://epg.pw/api/epg.xml?channel_id=8396
-
-epg.xml
-https://raw.githubusercontent.com/didikc/TV-EPG/main/epg.xml
