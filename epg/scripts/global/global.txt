@@ -14,4 +14,4 @@ A9dQ6HFv83.xml
 https://www.open-epg.com/generate/A9dQ6HFv83.xml
 
 epg.xml
-https://epg.pw/api/epg.xml?channel_id=8396
+https://epg.pw/api/epg.xml?channel_id=465158
