@@ -1,8 +1,5 @@
-id-visionplus.xml
-https://raw.githubusercontent.com/didikc/EPG-2/main/epg/id-visionplus.xml
-
-id-denstv.xml
-https://raw.githubusercontent.com/didikc/EPG-2/main/epg/id-denstv.xml
+id-cubmu.xml
+https://raw.githubusercontent.com/didikc/EPG-2/main/epg/id-cubmu.xml
 
 id-indihometv.xml
 https://raw.githubusercontent.com/didikc/EPG-2/main/epg/id-indihometv.xml
