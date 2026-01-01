@@ -1,6 +1,9 @@
 pix.xml
 https://raw.githubusercontent.com/didikc/EPG-2/main/epg/pix.xml
 
+epg.xml
+https://raw.githubusercontent.com/didikc/EPG-3/main/epg.xml
+
 A9dQ6HFv83.xml
 https://www.open-epg.com/generate/A9dQ6HFv83.xml
 
