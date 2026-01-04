@@ -6,6 +6,3 @@ https://raw.githubusercontent.com/didikc/EPG-3/main/epg.xml
 
 A9dQ6HFv83.xml
 https://www.open-epg.com/generate/A9dQ6HFv83.xml
-
-epg.xml
-https://epg.pw/api/epg.xml?channel_id=465158
